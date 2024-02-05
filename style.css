@@ -1,0 +1,24 @@
+body{
+    background-color:#deb49c;
+}
+h1{
+    font-family: sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    color:#cd7745;
+}
+.container{
+    margin:150px 10%;
+}
+.card{
+    text-align: center;
+    width:70rem;
+}
+.card-body{
+    background-color:#E8CEBF;
+    color: #cd7745;
+
+}
+.card-header{
+    background-color:#4D774E;
+}
